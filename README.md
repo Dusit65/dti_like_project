@@ -1,4 +1,4 @@
-# dti_like_project
+# dti_like_project (DTI Cake Shop)
 
 A new Flutter project.
 
